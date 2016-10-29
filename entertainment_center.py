@@ -3,6 +3,7 @@ import video
 import media
 import TvShow
 
+
 #Instance class TvShow category
 stranger_things = TvShow.TvShow("Stranger Things",
                                 "160min",
