@@ -2,4 +2,4 @@
 Web Developer Full Stack
 
 #How usage:
-Run fresh_tomatoes.py for view movives
+Run entertainment_center.py for view movives
